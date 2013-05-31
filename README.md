@@ -7,6 +7,6 @@ How to Use
 ========
 Just use `./shreader.sh yt.txt`
 
-`j` is downpage
-`k` is uppage
-`q` is quit
+* `j` is downpage
+* `k` is uppage
+* `q` is quit
